@@ -6,7 +6,7 @@ Junior web developper
 
 I'm a passionate junior web developper and eager to learn more and more as I grow
 
-* 🌍  I'm based in Nancy, France
+* 🌍  I'm based in Lyon, France
 * 🖥️  See my portfolio at [raph.cool](https://portfolio.raph.cool/projects)
 * 🧠  I'm learning Angular
 
